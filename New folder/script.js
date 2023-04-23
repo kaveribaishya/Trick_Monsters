@@ -5,10 +5,10 @@ var quiz = {
 			question: "How many bones does a human adult have?",
 			options: [
 				{
-					a: "200",
+					a: "206",
 					b: "202",
 					c: "196",
-					d: "206",
+					d: "200",
 				},
 			],
 			answer: "206",
@@ -17,7 +17,7 @@ var quiz = {
 		},
 		{
 			id: 2,
-			question: "Who was the first President of India?",
+			question: "Who was the Prime Minister of India?",
 			options: [
 				{
 					a: "Jawaharlal Nehru",
@@ -36,9 +36,9 @@ var quiz = {
 			options: [
 				{
 					a: "Hyderabad",
-					b: "Bangaluru",
+					b: "Delhi",
 					c: "Mumbai",
-					d: "Delhi",
+					d: "Bangalore",
 				},
 			],
 			answer: "Delhi",
@@ -51,9 +51,9 @@ var quiz = {
 			options: [
 				{
 					a: "Makalu",
-					b: "K2",
+					b: "Mount Everest",
 					c: "Kangchenjunga",
-					d: "Mount Everest",
+					d: "K2",
 				},
 			],
 			answer: "Mount Everest",
@@ -67,8 +67,8 @@ var quiz = {
 				{
 					a: "Africa",
 					b: "Australia",
-					c: "Europe",
-					d: "Asia",
+					c: "Asia",
+					d: "Europe",
 				},
 			],
 			answer: "Asia",
@@ -95,10 +95,10 @@ var quiz = {
 			question: "Which is the national fruit of India?",
 			options: [
 				{
-					a: "Grapes",
+					a: "Mango",
 					b: "Apple",
 					c: "Banana",
-					d: "Mango",
+					d: "Watermelon",
 				},
 			],
 			answer: "Mango",
@@ -112,8 +112,8 @@ var quiz = {
 				{
 					a: "Giraffe",
 					b: "Dinosaur",
-					c: "Shark",
-					d: "Blue Whale",
+					c: "Blue Whale",
+					d: "Shark",
 				},
 			],
 			answer: "Blue Whale",
@@ -140,10 +140,10 @@ var quiz = {
 			question: "Who has the authority to issue currency in India?",
 			options: [
 				{
-					a: "Manmohan State Bank of India(SBI)",
+					a: "Reserve Bank of India (RBI)",
 					b: "Punjab National Bank(PNB)",
 					c: "Axis Bank",
-					d: "Reserve Bank of India (RBI)"
+					d: "State Bank of India(SBI)",
 				},
 			],
 			answer: "Reserve Bank of India (RBI)",
